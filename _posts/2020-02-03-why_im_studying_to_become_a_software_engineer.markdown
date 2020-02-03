@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Why  I'm studying to become a Software Engineer?"
-date:       2020-02-03 06:28:45 +0000
+date:       2020-02-03 01:28:46 -0500
 permalink:  why_im_studying_to_become_a_software_engineer
 ---
 
